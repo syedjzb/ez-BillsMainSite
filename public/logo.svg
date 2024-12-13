@@ -1,0 +1,9 @@
+<svg width="120" height="60" viewBox="0 0 120 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 'bill' text shape -->
+  <path d="M10 10h25v40H10c-2.761 0-5-2.239-5-5V15c0-2.761 2.239-5 5-5z" fill="#4285F4"/>
+  <path d="M40 10h20v40H40V10z" fill="#4285F4"/>
+  <path d="M65 10h25c2.761 0 5 2.239 5 5v30c0 2.761-2.239 5-5 5H65V10z" fill="#4285F4"/>
+  
+  <!-- Checkmark/graph accent -->
+  <path d="M40 35l15-15 25 25" stroke="#34A853" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
